@@ -1,0 +1,6 @@
+0 Cartón y Papel
+1 Metales
+2 Se recomeinda: Plásticos
+3 Residuos Orgánicos
+4 Residuos Peligrosos
+5 Vidrios
