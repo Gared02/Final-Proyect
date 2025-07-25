@@ -29,4 +29,4 @@ async def check(ctx):
     except ValueError as e:
         await ctx.send(f"No se recibió ninguna imagen en el tiempo permitido {e}")
     
-bot.run("MTMyODc0MTg0MzYwNDYwMjkwMQ.GGXkDC.6eKT_x6j9STYaXeBwBOuxJy8Lq3_uXoFEJppXg")
+bot.run("TOKEN")
